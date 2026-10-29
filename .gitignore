@@ -1,1 +1,8 @@
-!/dist
+# 忽略根目录下所有内容
+/*
+
+# 不忽略指定文件夹
+!/dist/
+
+# 不忽略 .gitignore 自身
+!/.gitignore
